@@ -24,7 +24,7 @@ export default function Home() {
             <span className="text-green-600">Green</span><span className="text-black">Beam</span>
           </h1>
           <p className="text-lg">Your pocket rangefinder ⛳️</p>
-          <a href="YOUR_APP_STORE_LINK_HERE" className="transition transform hover:scale-105">
+          <a href="https://apps.apple.com/us/app/greenbeam/id6470087916" className="transition transform hover:scale-105">
             <Image src="/badge.svg" alt="Download on the App Store" width={160} height={45} />
           </a>
         </div>
